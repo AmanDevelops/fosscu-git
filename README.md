@@ -102,4 +102,3 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-*Note: This README is based on the available information from the repository and may need adjustments to align with the project's current state.* 
